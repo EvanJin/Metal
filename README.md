@@ -1,11 +1,10 @@
 Metal
 =====
-胖子三人组-爬虫
 
-Python
+backend
 ======
-python -- crawler
+后端代码
 
 Node
 ======
-phantomjs
+前端代码
